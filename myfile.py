@@ -1,6 +1,5 @@
-def runMe():
-    print('hello world')
+def runYou():
+    print('Goodbye cruel world')
 
-def oldMethod():
-    print('this is an old method')
-
+def oldMeth():
+    print("don't touch my meth.")
