@@ -15,3 +15,10 @@ def myMethodNew():
 
 def newCoolerMethod():
     print('cool epic new cooler')
+
+
+def test():
+    print('dog')
+
+def test2()
+    print('dog2')
