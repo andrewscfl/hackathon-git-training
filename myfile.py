@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def runMeNOW():
     print('hello world')
     x = 33-0
@@ -23,10 +22,8 @@ def test():
 
 def test2()
     print('dog2')
-=======
 def runYou():
     print('Goodbye cruel world')
 
 def oldMeth():
     print("don't touch my meth.")
->>>>>>> origin/ricky_branch
