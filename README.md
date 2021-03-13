@@ -1,1 +1,1 @@
-"# git init training" 
+git init training
