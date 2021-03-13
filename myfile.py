@@ -9,3 +9,6 @@ def runMeNOW():
 def oldMethod():
     print('this is an old method')
 
+
+def newMethod():
+    print('running new method')
